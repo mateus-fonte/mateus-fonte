@@ -1,4 +1,4 @@
-## Oiii eu sou o Mateus da Fonte, Estudante de programação e tecnologias!
+## Hi i'm Mateus da Fonte and i'm currently studying computer and software engineering at Universidade de Aveiro!
 <div align="center">
   <a href="https://github.com/mateus-fonte">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateus-fonte&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
