@@ -1,9 +1,4 @@
 ## Hi i'm Mateus da Fonte and i'm currently studying computer and software engineering at Universidade de Aveiro!
-<div align="center">
-  <a href="https://github.com/mateus-fonte">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateus-fonte&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-fonte&layout=compact&langs_count=7&theme=dark"/>
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Daf-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Daf-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />    
